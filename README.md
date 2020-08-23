@@ -1,2 +1,2 @@
 # SpiderAlgos
-Spider Algos Task 1
+Spider Algos Tasks 
